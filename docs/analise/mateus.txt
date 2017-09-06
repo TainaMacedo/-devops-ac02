@@ -1,0 +1,3 @@
+Analise: Responsavel pelo desenvolvimento e analise do produto com o uso de codigos e scripts de programação, com
+o objetivo de evoluir todos os setores do software do produto, desde o escopo, até a parte final.
+De certa forma, analisar e testar o codigo antes de se transformar em um projeto oficial.
