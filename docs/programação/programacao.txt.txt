@@ -1,0 +1,3 @@
+Programação/desenvolvimento, consiste no processo de desenvolvimento do software, desde a comcepção e entendimento do projeto, até a entrega final do mesmo partindo pelo desenvolvimento em sua stack (pilha), englobando desde back-end até front-end, envolvendo linguagens de programação, linguagens de marcação, Frameworks e inclusive scripts para criação do banco de dados.
+
+O análise será efetuada desde modelagem até a implantação, englobando desde modelagem de dados e sistemas até os testes exaustivos do software, para que o mesmo seja entregue dentro do que além de solicitado até possíveis melhorias no decorrer do projeto.
