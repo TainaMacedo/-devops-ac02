@@ -1,0 +1,2 @@
+O sistema de gerenciamento da Faculdade impacta, consiste em um ambiente Web, totalmente voltado para uma infraestrutura não local.
+O sistema conta com um banco de dados relacional que se comunica com uma interface web totalmente responsivo,utilizando as tecnologias mais atuais do mercado.
