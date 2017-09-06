@@ -1,0 +1,6 @@
+teste
+avaliar e checar as informacaoes escritas em codigos ou commits
+ter certeza que a aplicacao esta funcionando conforme solicitado
+
+ter certeza que as informacoes foram feitas conforme solicitacao do cliente
+dar manutencao antes da entrega
